@@ -1,5 +1,37 @@
 # SHOES-STORE-WEBSITE-FOR-BEGINNERS
-I HAVE MADE THIS WEBSITE FOR THE BEGINNERS WHO ARE NEW IN WEB DEVELOPMENT.I HAVE USED ALL THE WEB DEVELOPMENT LANGUAGES IN A SIMPLE QUANTITY.
+
+Project Title:Shoe Store Website
+
+This project is a shoe store website created using HTML, CSS,JavaScript and php . It was created as a third semester project of my University. The website has the following features:
+
+A men's section with a list of shoes
+A women's section with a list of shoes
+A feedback form
+An about page
+A contact page
+A payment option
+The website is not landed in the webplatform yet.
+
+The code for the website is well-organized and commented, making it easy to understand and modify. The website is also well-tested, ensuring that it works as expected.
+
+This project is a good example of my skills in HTML, CSS, and JavaScript. It also demonstrates my ability to create a responsive and accessible website.
+
+How to Use the Project
+To use the project, you can clone the GitHub repository to your local machine. Then, open the project in a code editor and run the index.html file. The website will open in your default web browser.
+
+Contributing to the Project
+If you would like to contribute to the project, you can fork the GitHub repository and create a pull request. Please make sure that your changes are well-tested and that the code is well-documented.
+
+License
+The project is licensed under the MIT License. This means that you are free to use, modify, and redistribute the project for any purpose.
+
+Credits
+The project was created by SWAPAN KUMAR SHEE.
+Contributors:SHIVAM KUMAR MISHRA,ARKA CHATTERJEE.
+
+Contact
+If you have any questions about the project, please contact SWAPANKUMAR.SHEE2021@uem.edu.in.
+
 XAMPP SERVER VERSION-
 Server: 127.0.0.1 via TCP/IP
 Server type: MariaDB
