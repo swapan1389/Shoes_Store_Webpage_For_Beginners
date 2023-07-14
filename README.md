@@ -1,8 +1,8 @@
 # Shoes_Store_Webpage_For_Beginners
 
-Project Title:Shoe Store Website
+Project Title:Shoe Store Webpage(3rd Semester,UEM Jaipur)
 
-This project is a shoe store website created using HTML, CSS,JavaScript and php . It was created as a third semester project of my University. The website has the following features:
+This project is a shoe store website created using HTML, CSS,JavaScript and php .The webpage has the following features:
 
 A men's section with a list of shoes
 A women's section with a list of shoes
